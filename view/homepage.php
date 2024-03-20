@@ -348,34 +348,20 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Datagate</h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              Jõhvi, Keskväljak 6, Jõhvi Kaubakeskus <br>
+              Tallinn, Vana-Lõuna 19<br>
+              <strong>Phone:</strong> +372 3370 709 -Jõhvi;<br> +372 612 9425; +372 612 9426 -Tallinn <br>
+              <strong>Email:</strong> johvi(at)datagate.ee; sales(at)datagate.ee<br>
             </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://datagate.ee" target="_blank">Datagate</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Social Networks</h4>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
-            <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            </div>
-          </div>
 
         </div>
       </div>

@@ -38,8 +38,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
-
-       <a href="/datagateLanding" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+       <h1 class="logo me-auto"><a href="/">Datagate</a></h1>
 
       <nav id="navbar" class="navbar">
         <ul>
